@@ -1,8 +1,1 @@
 pkg:rpm/centos/cloudian-openjdk21-devel@21.0.7.0.6-1.el8?arch=x86_64&distro=centos-8
-pkg:rpm/centos/cloudian-openjdk8-devel@1.8.0.452.b09-2.el8?arch=x86_64&distro=centos-8
-pkg:rpm/centos/graphite2@1.3.10-10.el8?arch=x86_64&distro=centos-8
-pkg:rpm/centos/harfbuzz@1.7.5-4.el8?arch=x86_64&distro=centos-8
-pkg:rpm/centos/java-1.8.0-openjdk-headless@1.8.0.452.b09-2.el8?arch=x86_64&distro=centos-8
-pkg:rpm/centos/java-11-openjdk@11.0.26-4.el8?arch=x86_64&distro=centos-8
-pkg:rpm/centos/java-21-openjdk-headless@21.0.7.0.6-1.el8?arch=x86_64&distro=centos-8
-pkg:rpm/centos/tzdata-java@2025b-1.el8?arch=noarch&distro=centos-8
