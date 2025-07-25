@@ -1,1 +1,1 @@
-pkg:rpm/centos/cloudian-openjdk21-devel@21.0.7.0.6-1.el8?arch=x86_64&distro=centos-8
+
